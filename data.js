@@ -3,7 +3,8 @@ module.exports = [
         id:'GykTLqODQuU',
         title:'Formuláario Animado com JS puro e CSS Animation',
         duration:'57 min',
-        price:'Free'
+        price:'Free',
+        featured: true
     },
     {
         id:'HN1UjzRSdBk',
@@ -15,7 +16,8 @@ module.exports = [
         id:'2alg7MQ6_sI',
         title:'Git e Github na prática',
         duration:'33 min',
-        price:'Free'
+        price:'Free',
+        featured: true
     },
     {
         id:'GSqR2i-Pq6o',
@@ -33,6 +35,7 @@ module.exports = [
         id:'ghTrp1x_1As',
         title:'O que é API? Rest e Restful',
         duration:'33 min',
-        price:'Free'
+        price:'Free',
+        featured: true
     },
 ]
