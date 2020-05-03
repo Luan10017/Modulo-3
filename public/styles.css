@@ -198,3 +198,9 @@ iframe {
     position: absolute;
     top: 0;
 }
+
+/* === ERROR === */
+.erro {
+    text-align: center;
+    margin: 150px auto;
+}
